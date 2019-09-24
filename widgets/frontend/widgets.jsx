@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
     return (
       <div>
         <Clock />
-        <div class="doodads">
+        <div className="doodads">
         <Tabs tabs={taberet} />
         </div>
       </div>
